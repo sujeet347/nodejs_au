@@ -27,10 +27,10 @@
     "express-ejs-layouts": "^2.5.0",
     "express-session": "^1.17.1",
     "googleapis": "^63.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^5.10.0",
     "nodemailer": "^6.4.11",
-    "passport": "^0.4.1",
+    "passport": "^0.7.0",
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
