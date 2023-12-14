@@ -7,7 +7,7 @@ const jwt = require('jsonwebtoken');
 const JWT_KEY = "jwtactive987";
 const JWT_RESET_KEY = "jwtreset987";
 
-//------------ User Model ------------//
+//----------- User Model ------------//
 const User = require('../models/User');
 
 //------------ Register Handle ------------//

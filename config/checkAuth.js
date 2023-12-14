@@ -1,4 +1,4 @@
-//------------ Routing via Auth ------------//
+//------------ Routing via Auth -----------//
 module.exports = {
     ensureAuthenticated: function (req, res, next) {
         if (req.isAuthenticated()) {

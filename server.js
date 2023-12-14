@@ -7,7 +7,7 @@ const passport = require('passport');
 
 const app = express();
 
-//------------ Passport Configuration ------------//
+//----------- Passport Configuration ------------//
 require('./config/passport')(passport);
 
 //------------ DB Configuration ------------//
