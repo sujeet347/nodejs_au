@@ -7,7 +7,7 @@ const authController = require('../controllers/authController')
 //------------ Login Route ------------//
 router.get('/login', (req, res) => res.render('login'));
 
-//----------- Forgot Password Route ------------//
+//---------- Forgot Password Route ------------//
 router.get('/forgot', (req, res) => res.render('forgot'));
 
 //------------ Reset Password Route ------------//
